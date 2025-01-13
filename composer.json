@@ -59,6 +59,9 @@
         ],
         "sail-migrate": [
             "../vendor/bin/sail artisan migrate"
+        ],
+        "setup": [
+            "./setup.sh"
         ]
     },
     "extra": {

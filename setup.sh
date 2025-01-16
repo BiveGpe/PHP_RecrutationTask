@@ -25,3 +25,6 @@ if [ -f package.json ]; then
 fi
 
 echo "Aplikacja została przygotowana do uruchomienia."
+
+# 6. Uruchomienie aplikacji
+php artisan serve
